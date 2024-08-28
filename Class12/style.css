@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+p{
+    color: blue;
+    /* font-family: "Grey Qo", cursive; */
+    font-size: 47px;
+    /* font-style: oblique; */
+    /* text-transform: capitalize; */
+    text-decoration: underline dotted;
+    /* line-height: 80px; */
+    /* letter-spacing: 10px; */
+    /* word-spacing: 25px; */
+}
+
+a{
+    text-decoration: none;
+}
